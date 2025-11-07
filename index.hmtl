@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Jonny | Developer & Digital Creator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Jonny</h1>
+    <p>Developer • Ethical Hacker • Digital Entrepreneur</p>
+  </header>
+
+  <section id="intro">
+    <h2>Welcome to My Portfolio</h2>
+    <p>I build practical tools, digital products, and automated systems that solve real problems.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Featured Project</h2>
+    <div class="project">
+      <h3>Password Strength Checker</h3>
+      <p>A simple tool to help users create secure passwords. Built with HTML, CSS, and JavaScript.</p>
+      <a href="https://your-gumroad-link.com" target="_blank">Buy Now</a>
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m a hands-on learner passionate about cybersecurity, coding, and building online businesses. I create tools that empower people and automate success.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Want to collaborate or hire me? Reach out at <strong>your-email@example.com</strong></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Jonny. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
