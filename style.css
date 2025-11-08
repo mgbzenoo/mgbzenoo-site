@@ -31,4 +31,9 @@ footer {
   background-color: #222;
   padding: 20px;
   font-size: 14px;
+
+}
+
+html {
+  scroll-behavior: smooth;
 }
