@@ -37,3 +37,11 @@ footer {
 html {
   scroll-behavior: smooth;
 }
+
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #333;
+  padding: 1rem;
+}
